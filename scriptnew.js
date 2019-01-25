@@ -23,7 +23,7 @@ document.getElementById("number2").src = ("image/sunset.jfif");
 document.getElementById("number3").src = ("image/flower.jpg");
 } 
 function night(el){
-document.getElementById("number1").src = ("image/leftpicure.PNG");
-document.getElementById("number2").src = ("image/middlepicture.png");
-document.getElementById("number3").src = ("image/right.png");
+document.getElementById("number1").src = ("image/leftpicure.png");
+document.getElementById("number2").src = ("image/middlepicture.PNG");
+document.getElementById("number3").src = ("image/right.PNG");
 } 
