@@ -17,6 +17,7 @@ body {
 }	
 .lightpurple {
 	background-color: #dab4ed;
+
 }
 
 .peach {
@@ -30,6 +31,14 @@ body {
 .green { 
 	background-color: #a1e595;
 } 
+
+.grow{
+	transition: all .2s ease-in-out;
+}
+
+.grow:hover{
+	transform: scale(1.1);
+}
 
 
 /* Use this class on the PARENT of whatever you are trying to center; remember that the PARENT tells the CHILD what to do! */

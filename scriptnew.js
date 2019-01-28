@@ -18,9 +18,9 @@ document.getElementById("number2").src = ("image/sunset2.jpg");
 document.getElementById("number3").src = ("image/sunset3.jpeg");
 } 
 function Grass(el){
-document.getElementById("number1").src = ("image/grass.jpg");
-document.getElementById("number2").src = ("image/sunset.jfif");
-document.getElementById("number3").src = ("image/flower.jpg");
+document.getElementById("number1").src = ("image/sunflowerleft.PNG");
+document.getElementById("number2").src = ("image/sunflowermiddle.PNG");
+document.getElementById("number3").src = ("image/sunflowerright.PNG");
 } 
 function night(el){
 document.getElementById("number1").src = ("image/leftpicure.PNG");
